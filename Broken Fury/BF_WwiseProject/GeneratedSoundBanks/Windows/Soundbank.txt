@@ -1,6 +1,7 @@
 Event	ID	Name			Wwise Object Path	Notes
+	576110585	Test2			\Default Work Unit\Test2	
 	3157003241	Test			\Default Work Unit\Test	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	253676030	Plopp-01	C:\GameDev Projects\BF\BF_WwiseProject\.cache\Windows\SFX\Plopp-01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Plopp-01		3484
+	253676030	Plopp-01	C:\GameDev Projects\BF2\Broken Fury\BF_WwiseProject\.cache\Windows\SFX\Plopp-01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Plopp-01		3484
 

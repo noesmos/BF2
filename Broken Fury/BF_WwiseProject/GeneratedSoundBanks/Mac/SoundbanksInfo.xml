@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>C:\GameDev Projects\BF\BF_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\GameDev Projects\BF\BF_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>C:\GameDev Projects\BF\BF_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>C:\GameDev Projects\BF2\Broken Fury\BF_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\GameDev Projects\BF2\Broken Fury\BF_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\GameDev Projects\BF2\Broken Fury\BF_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\GameDev Projects\BF\BF_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\GameDev Projects\BF2\Broken Fury\BF_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1661994096" Language="SFX" Hash="3653175515">
+		<SoundBank Id="1661994096" Language="SFX" Hash="3806632393">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank</ObjectPath>
 			<ShortName>Soundbank</ShortName>
 			<Path>Soundbank.bnk</Path>
@@ -29,6 +29,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="576110585" Name="Test2" ObjectPath="\Events\Default Work Unit\Test2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 			</IncludedEvents>
 		</SoundBank>
 	</SoundBanks>
