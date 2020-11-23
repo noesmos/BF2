@@ -36,9 +36,6 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# Wwise project but include the soundbanks
-BF_WwiseProject/
-
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta

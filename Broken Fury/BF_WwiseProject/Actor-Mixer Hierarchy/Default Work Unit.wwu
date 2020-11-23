@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A0AF9C4D-C148-4372-AE92-8764588C8378}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{A0AF9C4D-C148-4372-AE92-8764588C8378}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Plopp-01" ID="{378CC81D-F340-4D4E-9271-F97E6B228B47}" ShortID="827480976">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A3F4419B-6504-4B9B-9908-75931EDA8F33}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E72D195F-E410-460C-BCF8-D422AB578A75}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Plopp-01" ID="{703650C3-AC94-4EAC-8928-1220AC55BDE4}">
+							<Language>SFX</Language>
+							<AudioFile>Plopp-01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="253676030"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Plopp-01" ID="{703650C3-AC94-4EAC-8928-1220AC55BDE4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
