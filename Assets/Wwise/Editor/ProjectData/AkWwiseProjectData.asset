@@ -68,7 +68,7 @@ MonoBehaviour:
     ParentPath: Default Work Unit
     guid: 19b97b326271d44c9a99d9904197d9eb
     GuidInternal: 
-    m_lastTime: -8585957283472706026
+    m_lastTime: -8585954722464190956
     List:
     - name: Test
       guid: 73aedde3d4f9b640aba1bd3956038ada
@@ -82,6 +82,18 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 19388
       minDuration: 19388
+    - name: Test2
+      guid: db3079ff719ab743839f3be14e65123f
+      id: 576110585
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Test2
+        ObjectType: 3
+      Path: Default Work Unit\Test2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
