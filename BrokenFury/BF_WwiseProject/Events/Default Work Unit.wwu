@@ -14,6 +14,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Test2" ID="{FF7930DB-9A71-43B7-839F-3BE14E65123F}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
